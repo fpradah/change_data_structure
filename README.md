@@ -48,7 +48,7 @@ Executing CyclomaticComplexity-Analyzer: 4
 
 Que mide la complejidad de nuestro código principal. 
 
-Así, la página nos informa de que la complejidad es de 
+Así, la página http://ars.altervista.org/lint_php/lint_php.php nos informa de que la complejidad es de 
 
 ``
 The McCabe complexity is 4.
@@ -57,5 +57,5 @@ The McCabe complexity of 'printcsv' is 1.
 The McCabe complexity of 'printlines' is 1.
 ``
 
-Con lo cual nuestra complejidad ciclomática es de 7.
+Con lo cual, podemos deducir, que la complejidad ciclomática total es de 7.
 
