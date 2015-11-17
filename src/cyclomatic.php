@@ -72,9 +72,6 @@
 		global $letra;
 		$array_null = array(null);
 		$array = array($x,$y);
-		asort($array);
-		$array = array_diff($array, $array_null);
-		$array = array_pad($array, 2, 0);
 		$array = array_pad($array, 3, $letra);
 		return $array;
 	}
